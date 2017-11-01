@@ -30,3 +30,7 @@ Should produce this output:
 >Player 3: Queen-high    
 >Player 4: Queen-high    
 >Players 1, 2, 3 and 4 draw.    
+
+## Credits
+- The project is from the course [Programming and Software Development (COMP90041)](https://handbook.unimelb.edu.au/2018/subjects/comp90041)
+- Thanks to [Dr.Peter Schachte](http://people.eng.unimelb.edu.au/schachte/) and the tutors for the effort of teaching the subject and preparing the specification for this project 
