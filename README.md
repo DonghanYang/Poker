@@ -25,12 +25,12 @@ Should produce this output:
 This input:    
 `java Poker qc jc 2h 7s 9h qd jd 2s 7c 9s 9c 7d 2c jh qh 9d 7h 2d js qs`  
 Should produce this output:  
->Player 1: Queen-high
->Player 2: Queen-high  
->Player 3: Queen-high    
->Player 4: Queen-high    
->Players 1, 2, 3 and 4 draw.    
+`Player 1: Queen-high
+ Player 2: Queen-high  
+ Player 3: Queen-high    
+ Player 4: Queen-high    
+ Players 1, 2, 3 and 4 draw.`    
 
-## Credits
+# Credits
 - The project is from the course [Programming and Software Development (COMP90041)](https://handbook.unimelb.edu.au/2018/subjects/comp90041)
 - Thanks to [Dr.Peter Schachte](http://people.eng.unimelb.edu.au/schachte/) and the tutors for the effort of teaching the subject and preparing the specification for this project 
