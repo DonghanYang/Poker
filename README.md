@@ -7,9 +7,9 @@
 
 For example,  
 
-this input:    
+This input:    
 `java Poker 2H TH AS AD TC`    
-should produce this output:    
+Should produce this output:    
 `Player 1: Aces over 10s`    
 
 This input:  
